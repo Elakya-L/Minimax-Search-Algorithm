@@ -1,7 +1,7 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1>
 
-<h3>Name: JAYA SURYA R</h3>
-<h3>Register Number: 212225230114</h3>
+<h3>Name: ELAKYA L</h3>
+<h3>Register Number: 212225230066</h3>
 
 <H3>Aim:</H3>
 <p>
